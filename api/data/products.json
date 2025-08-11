@@ -1,0 +1,34 @@
+[
+  {
+    "id": "123245",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19",
+    "category": "Books"
+  },
+  {
+    "id": "0.41607315815753076",
+    "title": "fasfd",
+    "imageUrl": "fdasfs",
+    "description": "fadsfads",
+    "price": "12",
+    "category": "Apparel"
+  },
+  {
+    "title": "T-Shirt",
+    "imageUrl": "https://example.com/t.png",
+    "description": "Cotton tee",
+    "price": 25,
+    "category": "Apparel",
+    "id": "1754781203076"
+  },
+  {
+    "title": "T-Shirt",
+    "imageUrl": "https://example.com/t.png",
+    "description": "Cotton tee",
+    "price": 25,
+    "category": "Apparel",
+    "id": "1754781228280"
+  }
+]
