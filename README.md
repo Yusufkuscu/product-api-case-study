@@ -34,7 +34,7 @@ The server should now be running. You can access the application by opening a we
 ```bash
   http://localhost:3000
 ```
-=======
+
 # product-api-case-study
 Product API case study for backend developer assessment. Only my own implementation and documentation are included.
 
